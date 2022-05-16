@@ -2,4 +2,4 @@
 
 Demo here:
 
-https://whitelist-dapp-flame-nine.vercel.app/
+https://whitelist-dapp-d3vd00m.vercel.app/
