@@ -1,11 +1,11 @@
 # Whitelist-Dapp
 A whitelist dapp for NFT collection named Crypto Devs. 
 
-Requirements
-
-Whitelist access should be given to the first 10 users for free who want to get in.
-There should be a website where people can go and enter into the whitelist.
-
+### Requirements
+<ls>
+<li>Whitelist access should be given to the first 10 users for free.
+<li>Create a website where people can join the whitelist.
+</ls>
 
 Demo here:
 
